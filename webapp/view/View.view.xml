@@ -9,6 +9,6 @@
        <Text text="Testing git4 - branch created by ak"/>
         <Text text="Testing git5 - branch created by ak"/>
          <Text text="Testing git6 - branch created by ak"/>
-       
+           <Text text="Testing git6 - branch created by ak"/>
     </Page>
 </mvc:View>
