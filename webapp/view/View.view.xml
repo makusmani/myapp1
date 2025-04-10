@@ -5,5 +5,7 @@
 
        <Text text="Testing git1 - branch created by ak"/>
        <Text text="Testing git1 - branch created by ak---2"/>
+       <Text text="Testing git1 - branch created by ak---3"/>
+       <Text text="Testing git1 - branch created by ak---4 devak" />
     </Page>
 </mvc:View>
