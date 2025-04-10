@@ -4,5 +4,7 @@
     <Page id="page" title="{i18n>title}">
 
        <Text text="Testing git1 - branch created by ak"/>
+       <Text text="Testing git1 - branch created by ak -- devak1221221"/>
+       <Text text="Testing git1 - branch created by ak -- devak1221221"/>
     </Page>
 </mvc:View>
