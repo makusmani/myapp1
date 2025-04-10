@@ -1,0 +1,8 @@
+<mvc:View controllerName="zmyapp1.controller.View"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+
+       <Text text="Testing git1 - branch created by ak"/>
+    </Page>
+</mvc:View>
